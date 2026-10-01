@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MemoryMonitor/MemoryMonitor.vcxproj" Id="988e4b95-dd6c-4c6e-9a25-f55a612edf91" />
+</Solution>
